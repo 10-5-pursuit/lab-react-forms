@@ -1,1 +1,19 @@
-/* Add your own CSS! */
+.error {
+  border: 1px solid red;
+}
+
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.input-container {
+  margin-right: 10px;
+}
+
+.result-container {
+  margin-left: 10px;
+}
